@@ -27,7 +27,7 @@
         return;
       }
       // Generate new url
-      let redirectUrl = "https://"+newDomain+splitUrl[4].replace(/^\/wiki\//i,"/w/");
+      let redirectUrl = "https://"+newDomain+splitUrl[4].replace(/^\/wiki\//i,"/wiki/");
       console.log("BakuWikia intercepted: " + info.url + "\nRedirecting to "+redirectUrl);
       // Redirect the old wikia request to new wiki	
       return {redirectUrl:redirectUrl};
