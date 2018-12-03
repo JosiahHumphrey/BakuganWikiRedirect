@@ -1,7 +1,7 @@
 {
   "name": "Baku Wiki Redirector",
-  "author": "proEndreeper",
-  "version": "1.2.1",
+  "author": "proEndreeper, edited by seewhati",
+  "version": "1.0",
   "description": "Redirects Baku Wikia/Fandom requests to Baku Wiki",
   "permissions": ["webRequest", "webRequestBlocking", "storage",
                   "*://bakugan.wikia.com/*",
