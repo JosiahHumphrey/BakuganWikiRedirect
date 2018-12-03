@@ -7,11 +7,6 @@
                   "*://bakugan.wikia.com/*",
                   "*://bakugan.fandom.com/*"],
 
-  "applications": {
-    "gecko" : {
-      "id": "{c3cc188f-ea35-4519-a09c-72e8f06b5d11}"
-    }
-  },
   
   "background": {
     "scripts": ["background.js"],
